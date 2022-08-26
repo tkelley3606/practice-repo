@@ -1,6 +1,6 @@
-## First Name Last Name
+## Jikhan Jeong
 
-### Term Year 
+### Term Year 2022 Fall
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
