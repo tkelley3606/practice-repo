@@ -20,7 +20,7 @@ I am _passionate about_:
 
 - Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Computer Science
 
 ***
 
