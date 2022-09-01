@@ -1,4 +1,4 @@
-## Jikhan Jeong
+## Thomas Kelley
 
 ### Term Year 2022 Fall
 
@@ -24,4 +24,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2022/08/31
+> Last modified: 2022/09/01
